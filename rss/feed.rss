@@ -8,7 +8,19 @@
         <managingEditor>A22DanielRV@iessanclemente.net</managingEditor>
         <item>
             <title>Eclipse</title>
-            <link>https://danielrecouso.github.io/projectRSSide/</link>
+            <link>https://danielrecouso.github.io/projectRSSide/Eclipse.html</link>
+            <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
+            <description>Some text.</description>
+        </item>
+        <item>
+            <title>netbeans</title>
+            <link>https://danielrecouso.github.io/projectRSSide/netbeans.html</link>
+            <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
+            <description>Some text.</description>
+        </item>
+        <item>
+            <title>vscode</title>
+            <link>https://danielrecouso.github.io/projectRSSide/vscode.html</link>
             <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
             <description>Some text.</description>
         </item>
