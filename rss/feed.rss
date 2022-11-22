@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Example Feed</title>
+        <description>News about different IDEs</description>
+        <link>http://example.org/</link>
+        <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
+        <managingEditor>A22DanielRV@iessanclemente.net</managingEditor>
+        <item>
+            <title>Eclipse</title>
+            <link>https://danielrecouso.github.io/projectRSSide/</link>
+            <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
+            <description>Some text.</description>
+        </item>
+    </channel>
+</rss>
