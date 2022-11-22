@@ -3,7 +3,7 @@
     <channel>
         <title>Example Feed</title>
         <description>News about different IDEs</description>
-        <link>http://example.org/</link>
+        <link>https://danielrecouso.github.io/projectRSSide/</link>
         <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
         <managingEditor>A22DanielRV@iessanclemente.net</managingEditor>
         <item>
